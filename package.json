@@ -1,0 +1,7 @@
+{
+  "name": "alice-portfolio",
+  "version": "1.0.0",
+  "author": "Gregory Vinogradov",
+  "workspaces": ["./packages/*"],
+  "license": "MIT"
+}
