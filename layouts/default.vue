@@ -2,8 +2,8 @@
 import TheHeader from '~/components/common/TheHeader.vue';
 
 <template>
+  <CommonHeader />
   <div class="page">
-    <CommonHeader />
     <slot />
   </div>
 </template>
